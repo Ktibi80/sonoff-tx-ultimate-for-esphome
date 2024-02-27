@@ -120,9 +120,9 @@ api:
 
 ota:
 
-wifi:
+wifi: "Woodland"
   ap:
-    password: "12345678"
+    password: "wholehog"
     
 improv_serial:
 
